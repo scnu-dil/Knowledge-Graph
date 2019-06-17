@@ -1,5 +1,4 @@
 # Knowledge Graph
-华南师范大学数据智能团队知识图谱论文总结
 This repo summarized the popular papers on knowledge graph, contributed by Data intelligence Lab in South China Normal University, referred [thunlp](https://github.com/thunlp/KRLPapers).
 
 # Survey
