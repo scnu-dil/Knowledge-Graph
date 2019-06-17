@@ -1,12 +1,13 @@
 # Knowledge Graph
-intorduction of this repo
+华南师范大学数据智能团队知识图谱论文总结
+This repo summarized the popular papers on knowledge graph, contributed by Data intelligence Lab in South China Normal University, referred [thunlp](https://github.com/thunlp/KRLPapers).
 
-# Survey Paper
+# Survey
 | Titile           | Author     |
 | ----------   | :-----------: |
 | Knowledge graph embedding-a survey of approaches and applications   | Quan Wang, Zhendong Mao, Bin Wang, and Li Guo |   
 | 知识表示学习研究进展   | 刘知远，孙茂松，林衍凯，谢若冰 |  
-| A Comprehensive survey of graph embedding-problems,techniques and applications  | Hongyun Cai, Vincent W. Zheng, and Kevin Chen-Chuan Chang | 
+| A Comprehensive survey of graph embedding problems,techniques and applications  | Hongyun Cai, Vincent W. Zheng, and Kevin Chen-Chuan Chang | 
 | Representation Learning: A Review and New Perspectives | Yoshua Bengio, Aaron Courville, and Pascal Vincent|
 | A Review of Relational Machine Learning for Knowledge Graphs | Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich|
 
