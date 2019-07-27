@@ -24,5 +24,5 @@ This repo summarized the popular papers on knowledge graph, contributed by Data 
 | KBGAN: Adversarial Learning for Knowledge Graph Embeddings | NAACL2018 | Liwei Cai, William Yang Wang | [pytorch](https://github.com/cai-lw/KBGAN) |  knowledge graph embedding |
 | DistMult: Embedding Entities and Relations for Learning and Inference in Knowledge Bases | ICLR2015 | Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, Li Deng | [tensorflow](https://github.com/thunlp/OpenKE) |  knowledge graph embedding |
 | RESCAL: A Three-Way Model for Collective Learning on Multi-Relational Data | ICML2011 | Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, Li Deng | [tensorflow](https://github.com/thunlp/OpenKE) |  knowledge graph embedding |
-
+| Complex embeddings for simple link prediction | ICML2016 | Trouillon, T., Welbl, J., Riedel, S., Gaussier, É., & Bouchard | [tensorflow](https://github.com/thunlp/OpenKE) |  knowledge graph completion |
 
