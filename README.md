@@ -25,4 +25,4 @@ This repo summarized the popular papers on knowledge graph, contributed by Data 
 | DistMult: Embedding Entities and Relations for Learning and Inference in Knowledge Bases | ICLR2015 | Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, Li Deng | [tensorflow](https://github.com/thunlp/OpenKE) |  knowledge graph embedding |
 | RESCAL: A Three-Way Model for Collective Learning on Multi-Relational Data | ICML2011 | Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, Li Deng | [tensorflow](https://github.com/thunlp/OpenKE) |  knowledge graph embedding |
 | Complex embeddings for simple link prediction | ICML2016 | Trouillon, T., Welbl, J., Riedel, S., Gaussier, É., & Bouchard | [tensorflow](https://github.com/thunlp/OpenKE) |  knowledge graph completion |
-
+| Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | ACL2019 | Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul | [pytorch](https://github.com/deepakn97/relationPrediction) |  knowledge graph completion |
